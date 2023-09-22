@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Home-booking Application
 
 This App list all the available Home for booking
@@ -31,3 +32,7 @@ json-server --watch db.json
 
 
 
+=======
+# Home-booking
+home booking app developed by angular cli
+>>>>>>> origin/master
