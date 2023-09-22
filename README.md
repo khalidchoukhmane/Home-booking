@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Home-booking Application
 
 This App list all the available Home for booking
@@ -12,7 +12,7 @@ This App list all the available Home for booking
 ![search-by-city.PNG](src%2Fassets%2Fapp-images%2Fsearch-by-city.PNG)
 
 ## Installation
-1- Clone this repository
+1- Clone this repository.
 
 ```bach
 git clone https://github.com/khalidchoukhmane/Home-booking.git
@@ -31,8 +31,3 @@ json-server --watch db.json
 ```
 
 
-
-=======
-# Home-booking
-home booking app developed by angular cli
->>>>>>> origin/master
